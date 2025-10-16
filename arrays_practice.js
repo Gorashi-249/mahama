@@ -36,10 +36,10 @@ console.log(numb[i] * 2);
 
 
 //upeercase
-let blaon =["home","martinking","hala"];
-for (let i = 0; i < blaon.length; i++){
-console.log(blaon[i],toUpperCase());
-}
+//let blaon =["home","martinking","hala"];
+//for (let i = 0; i < blaon.length; i++){
+//console.log(blaon[i],toUpperCase());
+//}
 
 
 
